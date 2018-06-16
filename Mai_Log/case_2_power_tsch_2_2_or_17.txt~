@@ -1,0 +1,160 @@
+AVG ON 2362891108 us 11.41 %
+AVG TX 80656256 us 0.39 %
+AVG RX 384983944 us 1.86 %
+AVG INT 551210924 us 2.66 %
+Contiki_1 MONITORED 668244020 us
+Contiki_1 ON 76454300 us 11.44 %
+Contiki_1 TX 2549088 us 0.38 %
+Contiki_1 RX 9679232 us 1.45 %
+Contiki_1 INT 18649600 us 2.79 %
+Contiki_2 MONITORED 668244020 us
+Contiki_2 ON 70827436 us 10.60 %
+Contiki_2 TX 2660576 us 0.40 %
+Contiki_2 RX 11665248 us 1.75 %
+Contiki_2 INT 18172032 us 2.72 %
+Contiki_3 MONITORED 668244020 us
+Contiki_3 ON 77275352 us 11.56 %
+Contiki_3 TX 2391328 us 0.36 %
+Contiki_3 RX 10839136 us 1.62 %
+Contiki_3 INT 19357620 us 2.90 %
+Contiki_4 MONITORED 668244020 us
+Contiki_4 ON 73629052 us 11.02 %
+Contiki_4 TX 2147712 us 0.32 %
+Contiki_4 RX 10829760 us 1.62 %
+Contiki_4 INT 19121352 us 2.86 %
+Contiki_5 MONITORED 668247020 us
+Contiki_5 ON 73018744 us 10.93 %
+Contiki_5 TX 2814656 us 0.42 %
+Contiki_5 RX 8375872 us 1.25 %
+Contiki_5 INT 19388524 us 2.90 %
+Contiki_6 MONITORED 668244020 us
+Contiki_6 ON 73967116 us 11.07 %
+Contiki_6 TX 2423584 us 0.36 %
+Contiki_6 RX 11960576 us 1.79 %
+Contiki_6 INT 18001520 us 2.69 %
+Contiki_7 MONITORED 668244020 us
+Contiki_7 ON 74759376 us 11.19 %
+Contiki_7 TX 2668160 us 0.40 %
+Contiki_7 RX 14126464 us 2.11 %
+Contiki_7 INT 16817140 us 2.52 %
+Contiki_8 MONITORED 668244020 us
+Contiki_8 ON 74977148 us 11.22 %
+Contiki_8 TX 2432864 us 0.36 %
+Contiki_8 RX 14728960 us 2.20 %
+Contiki_8 INT 16713244 us 2.50 %
+Contiki_9 MONITORED 668244020 us
+Contiki_9 ON 74537168 us 11.15 %
+Contiki_9 TX 2813984 us 0.42 %
+Contiki_9 RX 12752032 us 1.91 %
+Contiki_9 INT 17880200 us 2.68 %
+Contiki_10 MONITORED 668247020 us
+Contiki_10 ON 73795492 us 11.04 %
+Contiki_10 TX 2364992 us 0.35 %
+Contiki_10 RX 10849440 us 1.62 %
+Contiki_10 INT 19009060 us 2.84 %
+Contiki_11 MONITORED 668244020 us
+Contiki_11 ON 77718452 us 11.63 %
+Contiki_11 TX 1777376 us 0.27 %
+Contiki_11 RX 13240320 us 1.98 %
+Contiki_11 INT 17887168 us 2.68 %
+Contiki_12 MONITORED 668244020 us
+Contiki_12 ON 75935636 us 11.36 %
+Contiki_12 TX 3105280 us 0.46 %
+Contiki_12 RX 15928448 us 2.38 %
+Contiki_12 INT 15459040 us 2.31 %
+Contiki_13 MONITORED 668244020 us
+Contiki_13 ON 76623104 us 11.47 %
+Contiki_13 TX 4194016 us 0.63 %
+Contiki_13 RX 16677696 us 2.50 %
+Contiki_13 INT 14471896 us 2.17 %
+Contiki_14 MONITORED 668244020 us
+Contiki_14 ON 78400528 us 11.73 %
+Contiki_14 TX 2789728 us 0.42 %
+Contiki_14 RX 15093248 us 2.26 %
+Contiki_14 INT 16310200 us 2.44 %
+Contiki_15 MONITORED 668244020 us
+Contiki_15 ON 81039240 us 12.13 %
+Contiki_15 TX 2407680 us 0.36 %
+Contiki_15 RX 11780896 us 1.76 %
+Contiki_15 INT 18555656 us 2.78 %
+Contiki_16 MONITORED 668244020 us
+Contiki_16 ON 74614792 us 11.17 %
+Contiki_16 TX 2290880 us 0.34 %
+Contiki_16 RX 13077056 us 1.96 %
+Contiki_16 INT 17620184 us 2.64 %
+Contiki_17 MONITORED 668244020 us
+Contiki_17 ON 75437356 us 11.29 %
+Contiki_17 TX 2506048 us 0.38 %
+Contiki_17 RX 16196608 us 2.42 %
+Contiki_17 INT 15603332 us 2.33 %
+Contiki_18 MONITORED 668244020 us
+Contiki_18 ON 79372656 us 11.88 %
+Contiki_18 TX 3369984 us 0.50 %
+Contiki_18 RX 16773696 us 2.51 %
+Contiki_18 INT 14762604 us 2.21 %
+Contiki_19 MONITORED 668244020 us
+Contiki_19 ON 81530928 us 12.20 %
+Contiki_19 TX 2479296 us 0.37 %
+Contiki_19 RX 15184128 us 2.27 %
+Contiki_19 INT 16280796 us 2.44 %
+Contiki_20 MONITORED 668244020 us
+Contiki_20 ON 81169108 us 12.15 %
+Contiki_20 TX 2467040 us 0.37 %
+Contiki_20 RX 11994656 us 1.79 %
+Contiki_20 INT 18421196 us 2.76 %
+Contiki_21 MONITORED 668244020 us
+Contiki_21 ON 74064900 us 11.08 %
+Contiki_21 TX 2146464 us 0.32 %
+Contiki_21 RX 11761696 us 1.76 %
+Contiki_21 INT 18014960 us 2.70 %
+Contiki_22 MONITORED 668244020 us
+Contiki_22 ON 75125720 us 11.24 %
+Contiki_22 TX 3559424 us 0.53 %
+Contiki_22 RX 13609568 us 2.04 %
+Contiki_22 INT 16515224 us 2.47 %
+Contiki_23 MONITORED 668244020 us
+Contiki_23 ON 75113320 us 11.24 %
+Contiki_23 TX 2080192 us 0.31 %
+Contiki_23 RX 14640608 us 2.19 %
+Contiki_23 INT 16754420 us 2.51 %
+Contiki_24 MONITORED 668244020 us
+Contiki_24 ON 77795640 us 11.64 %
+Contiki_24 TX 2394752 us 0.36 %
+Contiki_24 RX 12876928 us 1.93 %
+Contiki_24 INT 17900916 us 2.68 %
+Contiki_25 MONITORED 668244020 us
+Contiki_25 ON 80541464 us 12.05 %
+Contiki_25 TX 2421056 us 0.36 %
+Contiki_25 RX 10350976 us 1.55 %
+Contiki_25 INT 19084748 us 2.86 %
+Contiki_26 MONITORED 668244020 us
+Contiki_26 ON 73172840 us 10.95 %
+Contiki_26 TX 1996640 us 0.30 %
+Contiki_26 RX 9310880 us 1.39 %
+Contiki_26 INT 18829208 us 2.82 %
+Contiki_27 MONITORED 668247020 us
+Contiki_27 ON 73959504 us 11.07 %
+Contiki_27 TX 2280704 us 0.34 %
+Contiki_27 RX 11380232 us 1.70 %
+Contiki_27 INT 18143700 us 2.72 %
+Contiki_28 MONITORED 668244020 us
+Contiki_28 ON 76996660 us 11.52 %
+Contiki_28 TX 2168448 us 0.32 %
+Contiki_28 RX 10667040 us 1.60 %
+Contiki_28 INT 19437912 us 2.91 %
+Contiki_29 MONITORED 668244020 us
+Contiki_29 ON 80440300 us 12.04 %
+Contiki_29 TX 2416608 us 0.36 %
+Contiki_29 RX 10114464 us 1.51 %
+Contiki_29 INT 19206904 us 2.87 %
+Contiki_30 MONITORED 668244020 us
+Contiki_30 ON 79056400 us 11.83 %
+Contiki_30 TX 1950112 us 0.29 %
+Contiki_30 RX 8078784 us 1.21 %
+Contiki_30 INT 19931368 us 2.98 %
+Contiki_31 MONITORED 668244020 us
+Contiki_31 ON 71541376 us 10.71 %
+Contiki_31 TX 4587584 us 0.69 %
+Contiki_31 RX 10439296 us 1.56 %
+Contiki_31 INT 18909200 us 2.83 %
+
